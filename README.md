@@ -5,10 +5,16 @@
 
 ---
 
-This repository contains all the code and exercises for the AI4AS Summer school Pitfalls in machine learning. The solutions will be provided during the class and afterwards published on github:
+This repository contains the code, exercises, and solution notebooks for the AI4AS Summer School **Pitfalls in Machine Learning**.
 
 The slides can be found in:
 docs/AI4AS pitfalls in machine learning.pdf
+
+The solution notebooks are in `notebooks_code/`:
+
+- `class_01_solution.ipynb`
+- `class_02_solution.ipynb`
+- `class_03_solution.ipynb`
 
 ## 📁 Project Structure
 
@@ -17,7 +23,7 @@ docs/AI4AS pitfalls in machine learning.pdf
 ├── data/
 │   ├── raw/            # Original raw datasets
 │   └── processed/      # Data processed by scripts and/or notebooks and saved afterwards
-├── notebooks_code/     # Jupyter notebooks
+├── notebooks_code/     # Solution notebooks
 ├── docs/               # Slides
 ├── README.md           # Project overview
 
